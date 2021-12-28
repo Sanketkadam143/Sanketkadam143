@@ -1,8 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Sanket Anil Kadam</h1>
+<h1 align="center">Hi 👋, I'm Sanket Kadam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkadam143&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkadam143" /> </p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/SanketKadam_143?label=Follow)](https://twitter.com/intent/follow?screen_name=Sanketkadam_143)
+[![Linkedin: Sanket](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-kadam-79a122203/)](https://www.linkedin.com/in/sanket-kadam-79a122203/)<br>
+<img src="https://i.postimg.cc/g200TBJ4/Profile-Banner.png">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkadam143" alt="sanketkadam143" /></a> </p>
 
