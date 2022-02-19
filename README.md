@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SanketKadam_143?label=Follow)](https://twitter.com/intent/follow?screen_name=Sanketkadam_143)
 [![Linkedin: Sanket](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-kadam-79a122203/)](https://www.linkedin.com/in/sanket-kadam-79a122203/)<br>
-<img src="https://i.postimg.cc/g200TBJ4/Profile-Banner.png">
+<img src=githubbanner.png>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkadam143" alt="sanketkadam143" /></a> </p>
 
