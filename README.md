@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sanket Kadam</h1>
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sanket Kadam </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkadam143&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkadam143" /> </p>
