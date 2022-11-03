@@ -1,18 +1,19 @@
 
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sanket Kadam </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkadam143&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkadam143" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SanketKadam_143?label=Follow)](https://twitter.com/intent/follow?screen_name=Sanketkadam_143)
 [![Linkedin: Sanket](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-kadam-79a122203/)](https://www.linkedin.com/in/sanket-kadam-79a122203/)<br>
 <img src=githubbanner.png>
+<img src=Mern.png>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkadam143" alt="sanketkadam143" /></a> </p>
 
 - 🔭 I’m currently working on **A Secret Project🤫🤫**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently exploring **MERN**
 
 - 📫 How to reach me **sanketanilkadam@gmail.com**
 
