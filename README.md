@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently exploring **MERN**
 
-- 📫 How to reach me **sanketanilkadam@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
